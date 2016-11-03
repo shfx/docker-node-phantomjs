@@ -1,4 +1,4 @@
-FROM node:7.0.0
+FROM node:6.8.0
 
 MAINTAINER shfx
 
